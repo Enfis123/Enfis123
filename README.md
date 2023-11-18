@@ -1,4 +1,4 @@
-# ¡Bienvenidos a mi Rincón de Innovación en el Software! 🚀
+# ¡Bienvenidos! 🚀
 
 ¡Hola a todos! Soy Victor Moreno, un estudiante apasionado por el mundo del desarrollo de software y la innovación tecnológica. Si estás aquí, es porque compartimos la misma pasión por crear soluciones únicas y marcar la diferencia en el mundo digital.
 
