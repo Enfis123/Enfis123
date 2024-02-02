@@ -23,7 +23,7 @@ Si también crees que el software tiene el poder de transformar nuestro mundo, �
 
 ¡Construyamos juntos el futuro!
 
-## Juego de Adivinanzas Programáticas 🎮
+## Juego🎮
 
 ¡Vamos a divertirnos con un juego de adivinanzas relacionado con la programación!
 
